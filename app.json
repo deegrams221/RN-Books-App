@@ -1,12 +1,4 @@
 {
-  "name": "rn-books-app",
-  "displayName": "rn-books-app",
-  "expo": {
-    "name": "rn-books-app",
-    "slug": "rn-books-app",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+  "name": "AwesomeProject",
+  "displayName": "AwesomeProject"
 }
